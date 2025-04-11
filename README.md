@@ -30,31 +30,21 @@ Traditional translation systems often struggle with the highly contextual and cu
 └── utils.py                  # Utility functions (data processing, evaluation, etc.)
 ```
 
----
-
-### 📊 Performance
-
-RedTrans achieves strong results across public MT benchmarks, and significantly outperforms general-purpose models on the RedTrans-Bench evaluation set.
-
-| Benchmark         | BLEU ↑ | chrF++ ↑ |
-|------------------|--------|-----------|
-| WMT22–24         | ✅     | ✅         |
-| FLORES200        | ✅     | ✅         |
-| **RedTrans-Bench** | 🥇     | 🥇         |
-
----
-
-### 🛠️ Usage
-
-> 📌 Inference scripts and training code will be released soon. Stay tuned for updates!
-
----
 
 ### 📚 Citation
 
-If you find this project helpful, please consider citing.
 
----
+```
+@misc{guo2025redefiningmachinetranslationsocial,
+      title={Redefining Machine Translation on Social Network Services with Large Language Models}, 
+      author={Hongcheng Guo and Fei Zhao and Shaosheng Cao and Xinze Lyu and Ziyan Liu and Yue Wang and Boyang Wang and Zhoujun Li and Chonggang Lu and Zhe Xu and Yao Hu},
+      year={2025},
+      eprint={2504.07901},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.07901}, 
+}
+```
 
 ### 🤝 Contributing & Contact
 
