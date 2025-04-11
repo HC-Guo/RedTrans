@@ -48,4 +48,4 @@ Traditional translation systems often struggle with the highly contextual and cu
 
 ### 🤝 Contributing & Contact
 
-Feel free to open an issue or submit a PR. If you’re interested in NLP for social media, we’d love to collaborate or hear from you!
+Feel free to open an issue or submit a PR. If you’re interested in LLM/VLM for social media, we’d love to collaborate or hear from you!
